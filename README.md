@@ -16,8 +16,8 @@ LORA_BusinessEvent_FinBERT_finetune_266.ipynb - LoRA adapter fine-tuning on FinB
 
 merge_ohlcv_news.ipynb - Merges OHLCV, News Sentiment and Business events from Fine-Tune and LoRA
 
-lstm_predict - LSTM network predictions for Stock data and news sentiment only
+lstm_predict.ipynb - LSTM network predictions for Stock data and news sentiment only
 
-lstm_predict_events - LSTM network predictions for Stock data, news sentiment & Fine-tuned Events
+lstm_predict_events.ipynb - LSTM network predictions for Stock data, news sentiment & Fine-tuned Events
 
-lstm_predict_events_lora - LSTM network predictions for Stock data, news sentiment & LoRA-adapted Events
+lstm_predict_events_lora.ipynb - LSTM network predictions for Stock data, news sentiment & LoRA-adapted Events
