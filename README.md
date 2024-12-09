@@ -8,6 +8,8 @@ arima_baseline.ipynb - calculates ARIMA baseline
 
 EDA_stock_news.ipynb - EDA for news data
 
+EDA_EDT_data.ipynb - EDA on Business Event labeled data
+
 FinBERT_sentiment_classifier - Leverages pre-trained FinBERT to rate article as negative to positive sentiment
 
 BusinessEventFinBERT_finetune_266.ipynb - Traditional fine-tuning on FinBERT to extract business events
