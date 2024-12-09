@@ -16,6 +16,10 @@ BusinessEventFinBERT_finetune_266.ipynb - Traditional fine-tuning on FinBERT to 
 
 LORA_BusinessEvent_FinBERT_finetune_266.ipynb - LoRA adapter fine-tuning on FinBERT to extract business events
 
+Business_event_prediction - Applies Fine-tuned FinBERT to FNSPID news articles
+
+Business_event_prediction_LORA.ipynb - Applies LoRA-adapted FinBERT to FNSPID news articles
+
 merge_ohlcv_news.ipynb - Merges OHLCV, News Sentiment and Business events from Fine-Tune and LoRA
 
 lstm_predict.ipynb - LSTM network predictions for Stock data and news sentiment only
